@@ -27,9 +27,12 @@ git clone git@github.com:stfc-aeg/loki-embedded-application-template.git
 
 ### Python Virtual environment
 In the level above the cloned repo, make a virtual env and pip install
+
+```bash
 virtualenv venv
 source venv/bin/activate
 pip install kconfiglib
+```
 
 ### Environment Setup
 
